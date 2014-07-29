@@ -1,0 +1,5 @@
+#Blocks
+4042: BasicBlock2 from Mekanism - extrautils:enderQuarry from ExtraUtilities
+4043: BasicBlock from Mekanism - extrautils:generator from ExtraUtilities
+4044: OreBlock from Mekanism - extrautils:decorativeBlock2 from ExtraUtilities
+Suggested Ranges: 3391-3699 (309 IDs), 910-1099 (190 IDs), 2856-2999 (144 IDs)
